@@ -28,10 +28,10 @@
 <!-- 
 <p align="center"><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthtyagii&show_icons=true&locale=en&layout=compact" alt="parthtyagii" /></p> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <p align="center"><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=parthtyagii&" alt="parthtyagii" /></p> -->
 
-<br>
+<!-- <br> -->
 
 <!-- <p align="center">&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=parthtyagii&show_icons=true&locale=en" alt="parthtyagii" /></p>   -->
